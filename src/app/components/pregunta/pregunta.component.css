@@ -1,0 +1,17 @@
+.list-group-item {
+  cursor: pointer;
+}
+
+.icon {
+  float: right;
+}
+
+.correct {
+  color: #17a2b8;
+  font-size: 18px;
+}
+
+.incorrect {
+  color: #da2d2d;
+  font-size: 18px;
+}
